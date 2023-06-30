@@ -23,7 +23,7 @@
           <td class="tabela__conteudo">{{ ocorrencia?.medicamento }}</td>
           <td class="tabela__conteudo">{{ ocorrencia?.localidade }}</td>
           <td class="tabela__conteudo">
-            {{ ocorrencia?.data | date : "short" }}
+            {{ ocorrencia?.data | date : "dd/MM/yy" }}
           </td>
           <td class="tabela__conteudo">
             <button (click)="alterar(ocorrencia?.id)">
