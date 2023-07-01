@@ -21,14 +21,24 @@
       "id": 8
     },
     {
-      "doenca": "a",
+      "doenca": "asssss",
       "contagio": "a",
       "leva_a_obito": "a",
       "socorro": "a",
       "medicamento": "a",
       "localidade": "a",
-      "data": "2023-06-30T19:46:17.466Z",
+      "data": "2023-06-30T21:50:08.599Z",
       "id": 9
+    },
+    {
+      "doenca": "bbb",
+      "contagio": "bbb",
+      "leva_a_obito": "bbb",
+      "socorro": "bbb",
+      "medicamento": "Z",
+      "localidade": "A",
+      "data": "2023-06-30T22:09:15.096Z",
+      "id": 10
     }
   ]
 }
