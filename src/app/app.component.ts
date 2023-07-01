@@ -14,7 +14,6 @@ export class AppComponent {
 
   recebeValor($event: any) {
     this.autor = JSON.stringify($event.valorEmitir);
-
     console.log('autor...' + this.autor);
   }
 }
