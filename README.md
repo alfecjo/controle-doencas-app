@@ -10,6 +10,9 @@
 ### Protótipo
 (<https://www.figma.com/file/Ic3EmqlxEY73UzVz18HHWG/controleDoencas?type=design&node-id=7%3A14&t=CIo2pmdvdcptwzRV-1>)
 
+### Vídeo de Apresentação do Projeto
+(<https://youtu.be/45DLJ_OVJCg>)
+
 ### Checklist
 
 - [x]Criar o repositório no GitHub com a estrutura do Gitflow, ou seja, branches main e develop.
