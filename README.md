@@ -2,7 +2,7 @@
 ![Angular](Angular.jpg)
 
 ## Este material foi desenvolvido em resposta a disciplina 'FrameWorks Web', a qual faz parte do curso de Pós Graduação em Tecnologia Java, ministrado pela Universidade Tecnológica Federal do Paraná.
-🎉 Trata-se do projeto final, construido, utilizando a framework Angular 16, associado a linguagem TypeScript.
+🎉 Trata-se do projeto final, construido, utilizando o Framework Angular 16, associado a linguagem TypeScript.
 
 🥋 Se você está entrando no Angular agora, bem como TypeScript, vou deixar um comentário apenas para orientá-lo, caso considere o código desta entrega estranho. Existem todos os níveis de dificuldade, entretanto, por não se tratar do uso do padrão para gerenciamento de estados Redux, para ser mais específico, o qual, dentro do Angular recebe o nome @ngrx, os níveis de dificuldade são menores, levando em consideração que a curva de aprendizado para a programação convencional é razoavelmente inferior.
 
