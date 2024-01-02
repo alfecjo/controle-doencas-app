@@ -1,5 +1,5 @@
-# ☕ Android..
-![android](android.jpg)
+# ☕ Frameworks Web
+![Angular](Angular.jpg)
 
 ## Este material foi desenvolvido em resposta a disciplina 'Android para Dispositivos Móveis', a qual faz parte do curso de Pós Graduação em Tecnologia Java, ministrado pela Universidade Tecnológica Federal do Paraná.
 🎉 Os projetos (contidos nos diretórios), são entregas, dependêntes entre si, ou seja, o projeto final é composto pela soma de todas as entregas, cada uma em sua devida fase de projeto. Sendo Assim, a entrega de maior valor, exemplo: entrega3, é composta por todas as entregas inferiores + ela. Todas foram solicitadas ao longo do curso e juntas perfazem a nota que compõem a média final.
