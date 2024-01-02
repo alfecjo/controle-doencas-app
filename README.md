@@ -39,7 +39,6 @@ O projeto para ser contemplado com a nota máxima precisa conter implementado pe
   - Fazer o deploy da aplicação no GitHub Pages e incluir o link no Readme.md
   - Entregar o projeto final.
   - Gravar um vídeo (entrega do link) ou fazer um relatório textual (entrega em PDF) apresentando o projeto desenvolvido de acordo com o checklist.
-(o vídeo encontra-se no link YouTube)
 
  ### 👷 Integrantes:
   - O projeto deverá ser desenvolvido individualmente.
