@@ -115,8 +115,8 @@ O projeto para ser contemplado com a nota máxima precisa conter implementado pe
 
 # Tecnologia utilizada:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Java Android](https://img.shields.io/badge/java%20android-%3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Tabela de Conteúdos
 
@@ -129,7 +129,7 @@ O projeto para ser contemplado com a nota máxima precisa conter implementado pe
 1. Clone o repositório ou baixe o arquivo .zip:
 
 ```bash
-git clone https://github.com/alfecjo/android.git
+git clone https://github.com/alfecjo/controle-doencas-app.git
 ```
 ## Uso
 
