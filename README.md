@@ -31,7 +31,7 @@ O projeto para ser contemplado com a nota máxima precisa conter implementado pe
 
 ### ⏰ Etapas
 
-  - Definir o tema e escopo do projeto na Atividade 03 (os temas escolhidos podem ser vistos na planilha (somente leitura)).
+  - Definir o tema e escopo do projeto (os temas escolhidos podem ser vistos na planilha (somente leitura)).
   - Criar o repositório no GitHub conforme a estrutura de branches do Gitflow.
   - Editar o Readme.md com o checklist de tópicos.
   - Projetar os protótipos das telas e incluir o link no Readme.md
