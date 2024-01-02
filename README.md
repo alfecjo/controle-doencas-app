@@ -57,7 +57,8 @@ O projeto para ser contemplado com a nota máxima precisa conter implementado pe
   - O sistema deve ser implementado contendo as funcionalidades referentes aos tópicos apresentados a seguir. Também serão consideradas as boas práticas de programação em JavaScript/TypeScript, uso adequado de notações e conceitos aprendidos. Ainda, serão avaliados os wireframes/protótipos do sistema.
   - A estrutura de checklist pode ser copiado do projeto roubank no GitHub disponível no seguinte endereço: https://github.com/utfpr-gp/roubank-app 
 
-🕵️ Critérios de aceite e avaliação:
+## 🕵️ Critérios de aceite e avaliação:
+
 ### 👁️‍🗨️ Tópicos/Checklist
 
   - Criar o repositório no GitHub com a estrutura do Gitflow, ou seja, branches main e develop.
