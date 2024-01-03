@@ -82,7 +82,7 @@ O projeto para ser contemplado com a nota máxima precisa conter implementado pe
 
 ## 🎯 Minhas entregas:
 
-### 🏆 Este projeto tem como objetivo implementar requisitos impostos pela disciplína Frameworks a título de avaliação. Trata-se de uma aplicação web que possibilita rastrear comunidades afetadas por doenças infectocontagiosas. (ex: cadastro, alteração, deleção, listagem), sendo o diferencial, a facilidade de uso e operação pelo cliente;
+### 🏆 Este projeto tem como objetivo implementar requisitos impostos pela disciplína Frameworks Web, a título de avaliação. Trata-se de uma aplicação web que possibilita rastrear comunidades afetadas por doenças infectocontagiosas. (ex: cadastro, alteração, deleção, listagem), sendo o diferencial, a facilidade de uso e operação pelo cliente;
 
    -  O frontend da aplicação foi desenvolvido com Angular e o backend foi simulado pela implementação de uma API Fake, usando o JSON Server;
 
