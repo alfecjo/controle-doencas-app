@@ -90,7 +90,7 @@ O projeto para ser contemplado com a nota máxima precisa conter implementado pe
 
    - Protótipo: <https://www.figma.com/file/Ic3EmqlxEY73UzVz18HHWG/controleDoencas?type=design&node-id=7%3A14&t=CIo2pmdvdcptwzRV-1>
 
-   [![Assista ao Vídeo de Apresentação do Projeto](https://img.youtube.com/vi/45DLJ_OVJCg/maxresdefault.jpg)](https://www.youtube.com/watch?v=SEU_CODIGO_DO_VIDEO)
+   [![Assista ao Vídeo de Apresentação do Projeto](https://img.youtube.com/vi/SEU_CODIGO_DO_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=45DLJ_OVJCg)
 
 
    - Checklist
